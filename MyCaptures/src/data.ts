@@ -49,4 +49,14 @@ export const slides = [
       title: 'Slide Title Ten',
       description: 'Slide Description Ten',
     },
+    {
+      src: '/m1.jpg',
+      title: 'Feni Station',
+      description: 'Eid Ul Adha, 2024',
+    },
+    {
+      src: '/mc2.jpg',
+      title: 'Bashbaria Sea Beach, Chittagong',
+      description: 'One day tour, 2022',
+    },
   ]
